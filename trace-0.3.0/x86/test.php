@@ -17,7 +17,7 @@ class CCommand{
     public static function main(){
         static::func1('start');
         $arrayObj = [["key2"=>["val"=>12]],];
-        CCommand::func3($arrayObj);
+        CCommand::func2($arrayObj);
     }
 }
 
