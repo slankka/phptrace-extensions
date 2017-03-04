@@ -1,3 +1,3 @@
-#!bin/sh
+#!/bin/bash
 
-php -f & ./cmdtool/phptrace -p $!
+php -f test.php & ./cmdtool/phptrace -p $!
