@@ -15,4 +15,5 @@ PHP: PHP 5.5.16 (cli)
 
 **VERSION 20170304 is recommand**
 
+fixed run.sh and recompile from the newest phptrace version.
 
